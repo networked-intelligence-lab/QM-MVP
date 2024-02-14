@@ -1,0 +1,62 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyN9Vc5WlbMiQhgwHvZ7TT3x",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/networked-intelligence-lab/QM-MVP/blob/main/notebooks/pipelines/gameemo_pipeline\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## NI Lab Repository\n",
+        "This notebook was used for exploratory purposes, and is saved as a Colab notebook in https://github.com/networked-intelligence-lab/QM-MVP under:\n",
+        "```\n",
+        "notebooks/pipelines/gameemo_pipeline\n",
+        "```\n",
+        "\n",
+        "---\n",
+        "\n",
+        "## Source\n",
+        "### Dataset\n",
+        "Dataset is sourced from the Biomedical Signal Processing and Control Paper titled \"**Database for an emotion recognition system based on EEG signals and various computer games–GAMEEMO**\"\n",
+        "\n",
+        "*Citation*: Alakus, T. B., Gonen, M., & Turkoglu, I. (2020). Database for an emotion recognition system based on EEG signals and various computer games–GAMEEMO. Biomedical Signal Processing and Control, 60, 101951.\n",
+        "\n",
+        "*Kaggle Source*: https://www.kaggle.com/datasets/sigfest/database-for-emotion-recognition-system-gameemo"
+      ],
+      "metadata": {
+        "id": "FXwgQ3K894Nr"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "zcjQzLwh9l5d"
+      },
+      "outputs": [],
+      "source": []
+    }
+  ]
+}
