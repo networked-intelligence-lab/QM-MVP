@@ -161,7 +161,7 @@ cython_debug/
 
 **/.DS_Store
 
-MusicLM/
+streamlit_app/MusicLM/
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
